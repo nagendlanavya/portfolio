@@ -1,0 +1,71 @@
+*{
+
+margin: 0;
+
+padding:0;
+
+font-family: sans-serif;
+
+}
+
+.herot
+
+position: relative;
+
+width: 100%;
+
+height: 100vh;
+
+
+background: #effefd;
+
+
+}
+nav{
+display: flex;
+
+width: 84%;
+margin:auto;
+
+padding:20px 0;
+align-items: center;
+Justify-content: space-between;
+
+}
+nav ul li{
+
+display:inline-block;
+list-style: none;
+margin: 10px 20px;
+}
+
+nav ul li a{
+
+text-decoraion: none;
+
+
+color: #100;
+
+font-weight:bold;
+}
+
+nav ul li a:hover{
+color:red;
+
+} 
+
+.detel{
+
+margin-left: 8%;
+
+margin-top: 13%;
+
+} - color: #212121;
+
+.detel hl{
+
+font-size: 50px;
+
+margin-bottom:20px;
+
+}
